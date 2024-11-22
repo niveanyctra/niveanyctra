@@ -42,10 +42,8 @@
 </p>
 &nbsp;
 <h2 align="center"><b>🗣️ Wakatime Stats</b></h2>
-
-<p align="center">
-<img alt="Nivea Nyctra wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=niveanyctra&theme=dark&border_color=303030" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 &nbsp;
 <h2 align="center"><b>🗣️ Discord Presence</b></h2>
 
