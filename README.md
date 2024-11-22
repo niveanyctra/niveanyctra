@@ -55,11 +55,11 @@ No activity tracked
 <!--END_SECTION:waka-->
 <!-- <p align="center">
 <img alt="Nivea Nyctra wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=niveanyctra&theme=dark&border_color=303030" />
-</p>
+</p> -->
 &nbsp;
 <h2 align="center"><b>🗣️ Discord Presence</b></h2>
 
 <p align="center"><a href="https://discordapp.com/users/477805354865131520"><img align="center" src="https://lanyard.cnrad.dev/api/477805354865131520?showDisplayName=true" alt="Currently Playing on Spotify"></a></p>
-&nbsp;
+<!-- &nbsp;
 <h2 align="center">💖 Support 💖</h2>
 <p align = "center"><a href="https://www.buymeacoffee.com/niveanyctra"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sachu-Settan" /></a></p> -->
