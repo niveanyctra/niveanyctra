@@ -44,6 +44,7 @@
 <h2 align="center"><b>🗣️ Wakatime Stats</b></h2>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<p align="center"><a href="https://discordapp.com/users/477805354865131520"><img align="center" src="https://lanyard.cnrad.dev/api/477805354865131520?showDisplayName=true" alt="Currently Playing on Spotify"></a></p>
 &nbsp;
 <h2 align="center"><b>🗣️ Discord Presence</b></h2>
 
