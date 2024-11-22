@@ -43,6 +43,15 @@
 &nbsp;
 <h2 align="center"><b>🗣️ Wakatime Stats</b></h2>
 <!--START_SECTION:waka-->
+
+```rust
+From: 21 November 2024 - To: 21 November 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <p align="center">
 <img alt="Nivea Nyctra wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=niveanyctra&theme=dark&border_color=303030" />
