@@ -44,7 +44,7 @@
 <h2 align="center"><b>🗣️ Wakatime Stats</b></h2>
 
 <p align="center">
-<img alt="Sanooj's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=niveanyctra&theme=dark&border_color=303030" />
+<img alt="Nivea Nyctra wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=niveanyctra&theme=dark&border_color=303030" />
 </p>
 &nbsp;
 <h2 align="center"><b>🗣️ Discord Presence</b></h2>
