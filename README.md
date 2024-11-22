@@ -1,6 +1,6 @@
-<h1 align="center"><strong>Hi there! I'm Sanooj Es 👋</strong></h1>
+<h1 align="center"><strong>Hi there! I'm Nivea Nyctra 👋</strong></h1>
 
-<p align="center"><strong>Based in Kerala, I specialize in both front-end and back-end development, with skills in React, HTML, CSS, Java, Python, JavaScript, C++ and more..</strong></p>
+<p align="center"><strong>Based in Indonesia, I specialize in back-end development, with skills in HTML, CSS, PHP and more..</strong></p>
 
 <h2 align="center">Skills & Expertise</h2>
 
