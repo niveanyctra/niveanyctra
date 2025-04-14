@@ -15,13 +15,13 @@
 <h2 align="center"><b>Connect with Me</h2>
 
 <p align="center">
-  <a href="https://instagram.com/niveanyctra/">
+  <a href="https://instagram.com/niveanyctra/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>&nbsp;
-   <a href="https://discordapp.com/users/477805354865131520">
+  <a href="https://discordapp.com/users/477805354865131520" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>&nbsp;
-   <a href="https://twitter.com/niveanyctra">
+  <a href="https://twitter.com/niveanyctra" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
