@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Hi there! I'm Nivea Nyctra 👋</strong></h1>
 
-<p align="center"><strong>Based in Indonesia, I specialize in back-end development, with skills in HTML, CSS, PHP and more..</strong></p>
+<p align="center"><strong>Based in Indonesia, specialize in back-end development</strong></p>
 
 <h2 align="center">Skills & Expertise</h2>
 
