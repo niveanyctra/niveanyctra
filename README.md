@@ -26,6 +26,14 @@
   </a>
 </p>
 
+<h2 align="center"><b>Donate</h2>
+
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/niveanyctra" target="_blank">
+    <img src="https://fontawesome.com/icons/paypal?f=brands&s=solid" />
+  </a>
+</p>
+
 <h2 align="center"><b>🗣️ Github Stats</b></h2>
 
 <div align="center">
