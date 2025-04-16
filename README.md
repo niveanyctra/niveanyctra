@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://www.paypal.com/paypalme/niveanyctra" target="_blank">
-    <img src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/datatrans/payment-logos/master/assets/apm/paypal.svg?sanitize=true" />
   </a>
 </p>
 
