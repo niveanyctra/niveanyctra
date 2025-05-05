@@ -7,8 +7,8 @@
 <p align=center>
 
 <p align="center">
-  <a href="https://sanooj.is-a.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,npm,php,laravel,html,md,css,stackoverflow,git,github&perline=12" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,npm,php,laravel,html,css,stackoverflow,git,github&perline=12" />
   </a>
 </p>
 
